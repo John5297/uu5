@@ -51,6 +51,16 @@ header {
     text-shadow: none;
 }
 
+.button2 {
+    background-color: #fff;
+    color: #000000;
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    display: block;
+    border-radius: 5px;
+}
+
 .button-share {
     color: rgb(255, 255, 255);
     background-color: #00b900;
