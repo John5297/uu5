@@ -1,7 +1,16 @@
 html, body {
     font-family: 'IBM Plex Sans Thai', sans-serif;
     padding: 10px;
+}
+.m-bk{
     background: url(img/ezgif-1-edb0e8cce9.webp);
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+.bk-nnxn {
+    background: url(img/nnxn/nnxn.webp);
     background-attachment: fixed;
     background-repeat: repeat;
     background-size: cover;
