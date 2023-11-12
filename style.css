@@ -93,4 +93,29 @@ header {
 
 .main-content h3 {
     margin: -13px 0px;
+    color: white;
+}
+
+.pop {
+    webkit-animation: pop 2s infinite;
+    animation: pop 1.5s infinite;
+    z-index: 3;
+    color: rgb(255, 255, 255);
+    background-color: #ecce47;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+    display: block;
+}
+
+@keyframes pop {
+    40%  {transform: scale(1.1);}
+  }
+
+.bk-slol {
+    background: url(https://sv1.picz.in.th/images/2023/11/12/ddMaJwy.jpeg);
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-size: cover;
 }
