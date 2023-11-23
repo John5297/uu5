@@ -39,7 +39,8 @@ header {
 }
 
 .box-bk {
-    background:  url(img/ezgif-1-044a2ff895.webp);
+    background:  url();
+    background-color: #282828;
     background-size: cover;
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
